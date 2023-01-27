@@ -1,0 +1,4 @@
+class mergeme:
+    
+    def _init_(self,pdf_name):
+        self.pdf_name=pdf_name
